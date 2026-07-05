@@ -21,7 +21,7 @@ I made some light modifications to adapt the design to BO3 while staying as fait
 - Added **Status** and **Menu Version** at the bottom
 - Added a clean green line separator under the menu title and options
 
-I tried to recreate the feel and layout of the original Revolution menu as closely as the constraints of BO3 GSC allow. The menu is still actively updated — make sure to check the [Releases](https://github.com/a5x/BO3-PS4-Zombies-Mod-Menu-GSC/releases) section regularly for the latest version!
+I tried to recreate the feel and layout of the original Revolution menu as closely as the constraints of BO3 GSC allow. The menu is still actively updated — make sure to check the [Releases](https://github.com/a5x/BO3-PS4-Campaign-Mod-Menu-GSC/releases) section regularly for the latest version!
 
 ## Features
 
