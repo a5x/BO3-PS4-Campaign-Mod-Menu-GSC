@@ -83,7 +83,7 @@ This section is particularly powerful and includes:
    Go into **Campaign** and enjoy the menu.
 
 5. **How to Change mod menu auto injected ?**
-   in `/data/667injector/bo3injector/667settings/667s.ini` in this ini you can see mainload="zm" so if you want to auto inject multiplayer mod menu when you start the game modify this line : mainload="cp" and save, after this restart the game and now multiplayer mod menu is now auto injected !
+   in `/data/667injector/bo3injector/667settings/667s.ini` in this ini you can see mainload="zm" so if you want to auto inject campaign mod menu when you start the game modify this line : mainload="cp" and save, after this restart the game and now multiplayer mod menu is now auto injected !
 
 ### Tips
 - Make sure the injector is running properly before launching the game.
