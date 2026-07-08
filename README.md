@@ -1,4 +1,3 @@
-
 # Black Ops 3 Campaign PS4 GSC Mod Menu
 
 **Revolution Reborn**
