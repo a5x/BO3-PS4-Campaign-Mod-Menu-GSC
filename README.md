@@ -1,7 +1,5 @@
 # Black Ops 3 Campaign PS4 GSC Mod Menu
 
-BTW For full 100% you need to put modded stats in your acc minimum 10.000 in stats
-
 **Revolution Reborn**
 
 Welcome to **Revolution Reborn** — a nostalgic Black Ops 3 Campaign mod menu for PS4.
